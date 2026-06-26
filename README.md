@@ -1,5 +1,5 @@
 # OIBSIP_Data_Analytics_T1_EDA-Retail-Sales
-#  Retail Sales Exploratory Data Analysis (EDA)
+## Retail Sales Exploratory Data Analysis (EDA)
 
 ## Overview
 This project performs Exploratory Data Analysis (EDA) on a retail sales dataset to identify sales trends, customer purchasing behavior, and product performance. The insights generated can help businesses make data-driven decisions.
